@@ -7,3 +7,4 @@
 	path = tauturri
 	url = https://github.com/jemus42/tauturri
 	shallow = true
+	registered = true
