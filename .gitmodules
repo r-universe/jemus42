@@ -23,8 +23,8 @@
 	url = https://github.com/jemus42/tRakt
 	shallow = true
 	registered = true
-[submodule "hugo-rstats-pkg-meta"]
-	path = hugo-rstats-pkg-meta
+[submodule "hugopkgmeta"]
+	path = hugopkgmeta
 	url = https://github.com/jemus42/hugo-rstats-pkg-meta
 	shallow = true
 	registered = true
