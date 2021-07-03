@@ -1,6 +1,32 @@
 [
   {
-    "package": "tauturri",
-    "oncran": true
+    "package": "poddr"
+  },
+  {
+    "package": "jermd"
+  },
+  {
+    "package": "jemisc"
+  },
+  {
+    "package": "tRakt"
+  },
+  {
+    "package": "hugo-rstats-pkg-meta"
+  },
+  {
+    "package": "discordiar"
+  },
+  {
+    "package": "speedrunr"
+  },
+  {
+    "package": "radarrr"
+  },
+  {
+    "package": "attrakttv"
+  },
+  {
+    "package": "tadaathemes"
   }
 ]

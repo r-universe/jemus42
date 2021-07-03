@@ -1,10 +1,55 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jemus42/universe
 	shallow = true
 	branch = HEAD
-[submodule "tauturri"]
-	path = tauturri
-	url = https://github.com/jemus42/tauturri
+[submodule "poddr"]
+	path = poddr
+	url = https://github.com/jemus42/poddr
+	shallow = true
+	registered = true
+[submodule "jermd"]
+	path = jermd
+	url = https://github.com/jemus42/jermd
+	shallow = true
+	registered = true
+[submodule "jemisc"]
+	path = jemisc
+	url = https://github.com/jemus42/jemisc
+	shallow = true
+	registered = true
+[submodule "tRakt"]
+	path = tRakt
+	url = https://github.com/jemus42/tRakt
+	shallow = true
+	registered = true
+[submodule "hugo-rstats-pkg-meta"]
+	path = hugo-rstats-pkg-meta
+	url = https://github.com/jemus42/hugo-rstats-pkg-meta
+	shallow = true
+	registered = true
+[submodule "discordiar"]
+	path = discordiar
+	url = https://github.com/jemus42/discordiar
+	shallow = true
+	registered = true
+[submodule "speedrunr"]
+	path = speedrunr
+	url = https://github.com/jemus42/speedrunr
+	shallow = true
+	registered = true
+[submodule "radarrr"]
+	path = radarrr
+	url = https://github.com/jemus42/radarrr
+	shallow = true
+	registered = true
+[submodule "attrakttv"]
+	path = attrakttv
+	url = https://github.com/jemus42/attrakttv
+	shallow = true
+	registered = true
+[submodule "tadaathemes"]
+	path = tadaathemes
+	url = https://github.com/tadaadata/tadaathemes
 	shallow = true
 	registered = true
