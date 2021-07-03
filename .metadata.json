@@ -27,6 +27,7 @@
     "package": "attrakttv"
   },
   {
-    "package": "tadaathemes"
+    "package": "tauturri",
+    "oncran": true
   }
 ]
