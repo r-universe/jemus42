@@ -23,11 +23,6 @@
 	url = https://github.com/jemus42/tRakt
 	shallow = true
 	registered = true
-[submodule "hugopkgmeta"]
-	path = hugopkgmeta
-	url = https://github.com/jemus42/hugo-rstats-pkg-meta
-	shallow = true
-	registered = true
 [submodule "discordiar"]
 	path = discordiar
 	url = https://github.com/jemus42/discordiar
