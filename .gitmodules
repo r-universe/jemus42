@@ -38,11 +38,6 @@
 	url = https://github.com/jemus42/radarrr
 	shallow = true
 	registered = true
-[submodule "attrakttv"]
-	path = attrakttv
-	url = https://github.com/jemus42/attrakttv
-	shallow = true
-	registered = true
 [submodule "tauturri"]
 	path = tauturri
 	url = https://github.com/jemus42/tauturri
