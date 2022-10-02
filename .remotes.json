@@ -1,11 +1,5 @@
 [
   {
-    "package": "and",
-    "url": "https://github.com/rossellhayes/and",
-    "via": ["poddr", "epoxy"],
-    "from": "poddr"
-  },
-  {
     "package": "epoxy",
     "url": "https://github.com/gadenbuie/epoxy",
     "via": ["poddr"],
