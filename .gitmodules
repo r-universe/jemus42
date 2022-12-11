@@ -48,8 +48,3 @@
 	url = https://github.com/jemus42/tauturri
 	shallow = true
 	registered = true
-[submodule "epoxy"]
-	path = epoxy
-	url = https://github.com/gadenbuie/epoxy
-	shallow = true
-	registered = false

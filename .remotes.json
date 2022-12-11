@@ -1,11 +1,5 @@
 [
   {
-    "package": "epoxy",
-    "url": "https://github.com/gadenbuie/epoxy",
-    "via": ["poddr"],
-    "from": "poddr"
-  },
-  {
     "package": "tRakt",
     "url": "https://github.com/jemus42/tRakt",
     "via": ["attrakttv"],
