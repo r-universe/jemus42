@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jemus42/universe
+	url = https://github.com/jemus42/jemus42.r-universe.dev
 	branch = HEAD
 [submodule "attrakttv"]
 	path = attrakttv
