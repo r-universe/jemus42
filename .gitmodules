@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/jemus42/jemus42.r-universe.dev
 	branch = HEAD
-[submodule "attrakttv"]
-	path = attrakttv
-	url = https://github.com/jemus42/attrakttv
-[submodule "discordiar"]
-	path = discordiar
-	url = https://github.com/jemus42/discordiar
 [submodule "jemisc"]
 	path = jemisc
 	url = https://github.com/jemus42/jemisc
@@ -17,12 +11,6 @@
 [submodule "poddr"]
 	path = poddr
 	url = https://github.com/jemus42/poddr
-[submodule "radarrr"]
-	path = radarrr
-	url = https://github.com/jemus42/radarrr
-[submodule "speedrunr"]
-	path = speedrunr
-	url = https://github.com/jemus42/speedrunr
 [submodule "tRakt"]
 	path = tRakt
 	url = https://github.com/jemus42/tRakt
