@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/jemus42/jemus42.r-universe.dev
 	branch = HEAD
-[submodule "jemisc"]
-	path = jemisc
-	url = https://github.com/jemus42/jemisc
-[submodule "jermd"]
-	path = jermd
-	url = https://github.com/jemus42/jermd
 [submodule "poddr"]
 	path = poddr
 	url = https://github.com/jemus42/poddr
